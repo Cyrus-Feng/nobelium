@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'FLOATING GARDEN',
   author: 'CYRUS FENG',
-  email: '',
+  email: 'to be determined,
   link: 'https://sealand.work',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
